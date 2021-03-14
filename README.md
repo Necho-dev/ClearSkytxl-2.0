@@ -1,4 +1,4 @@
-# clearskytxl
+# 澄空同学录（ClearSkytxl）-2.0
 澄空同学录 磨刀千年 只为此刻的锋利(后续开始全新版本开发)
 2019.5.4澄空同学录2.0版本正式开源 遵顼Apache License, Version 2.0开源协议
 
